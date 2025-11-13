@@ -1,5 +1,3 @@
-# 🧠 Pensamento_Computacional
-=======
 # 🧠 O Papel do Pensamento Computacional na Formação Acadêmica e Profissional no Século XXI
 ## 📋 Visão Geral do Projeto
 
